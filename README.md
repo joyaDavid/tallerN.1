@@ -1,1 +1,2 @@
 # tallerN.1
+Al estar programando con encapsulamiento y usando los modificadores de acceso como private o public,supe y aprendi que no todo es tan dific como se muestra, solo hay que pense también en cómo organizarlo, Me ayudó mucho a entender que no siempre es bueno que todo sea accesible desde cualquier parte del programa. Al contrario, es mejor que cada clase tenga su propia responsabilidad por asi decirlo. Esto hace que el programa sea más claro, más fácil de mantener y menos propenso a errores en el futuro. muchas gracias
